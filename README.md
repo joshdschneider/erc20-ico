@@ -1,6 +1,6 @@
-## Wavepool ICO
+## erc20-ico
 
-ERC20 token ICO implementation built with [@openzeppelin/contracts](https://openzeppelin.com/contracts/) & [remix](https://remix-project.org/). Equipped with opening & closing dates, presale phase with investor whitelisting, per-wallet cap, and more. This code hasn't been audited. Use at your own risk.
+Playing around with Solidity. This is an ERC20 token ICO implementation built with [@openzeppelin/contracts](https://openzeppelin.com/contracts/) & [remix](https://remix-project.org/). Equipped with opening & closing dates, presale phase with investor whitelisting, per-wallet cap, and more. This code hasn't been audited. Use at your own risk.
 
 Initialized with:
 - ERC20 token address
